@@ -11,6 +11,8 @@ D:\lkw_data\jsp_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\23214
 \chap02\src\main\java
 D:\lkw_data\jsp_git_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\234407561.index
 \chap03\src\main\java
+D:\lkw_data\jsp_git_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3810027038.index
+\chap09\src\main\java
 D:\lkw_data\jsp_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3653523022.index
 \chap01\src\main\java
 D:\lkw_data\jsp_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3647982431.index
