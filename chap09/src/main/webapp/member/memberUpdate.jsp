@@ -6,7 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <title>회원 관리</title>
-<script type="text/javascript" src="../script/member.js"></script>
+<script type="text/javascript" src="../chap09/script/member.js"></script>
 </head>
 <body>
 <h2>회원 수정</h2>

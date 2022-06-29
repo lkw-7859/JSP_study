@@ -101,7 +101,7 @@ public class MemberDAO {
 	
 	public int confirmID(String userid) {
 		int result = -1;
-		String sql = "select userid from member where userid = ?";
+		String sql = "select userid from member where userid=?";
 		Connection conn = null;
 		PreparedStatement pstmt = null;
 		ResultSet rs = null;

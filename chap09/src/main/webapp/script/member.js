@@ -1,3 +1,7 @@
+/**
+ * 
+ */
+
 function loginCheck(){
 	if(document.frm.userid.value.length == 0){
 		alert("아이디를 써주세요");
@@ -18,8 +22,9 @@ function idCheck(){
         document.frm.userid.focus();
         return;
     }
-    var url = "idCheck.do?userid=" + document.frm.userid.value;
-    window.open(url,"_blank_1","toolbar=no, menubar=no, scrollbars=yes, resizable=no, width=450, height=200");
+    var url = 'idCheck.do?userid=' + document.frm.userid.value;
+    window.open(url,'_blank_1',
+    'toolbar=no, menubar=no, scrollbars=yes, resizable=no, width=450, height=200');
 }
 
 function idok(){
@@ -36,12 +41,12 @@ function joinCheck(){
     }
     if(document.frm.userid.value.length==0){
         alert("아이디를 써주세요.");
-        frm.name.focus();
+        frm.userid.focus();
         return false;
     }
-    if(document.frm.name.value.length<4){
+    if(document.frm.userid.value.length<4){
         alert("아이디는 4글자이상이어야 합니다.");
-        frm.name.focus();
+        frm.userid.focus();
         return false;
     }
     if(document.frm.pwd.value==""){
@@ -56,7 +61,7 @@ function joinCheck(){
     }
     if(document.frm.reid.value.length==0 ){
         alert("중복체크를 하지 않았습니다.");
-        frm.pwd.focus();
+        frm.userid.focus();
         return false;
     }
 

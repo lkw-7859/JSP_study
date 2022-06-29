@@ -1,6 +1,5 @@
 INDEX VERSION 1.4+D:\lkw_data\jsp_git_data\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 2801526304.index
-1070864848.index
 2582371304.index
 3922113046.index
 2179136269.index

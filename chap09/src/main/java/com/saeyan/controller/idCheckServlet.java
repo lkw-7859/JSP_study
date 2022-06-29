@@ -29,6 +29,7 @@ public class idCheckServlet extends HttpServlet {
 		request.setAttribute("result", result);
 		
 		RequestDispatcher dispatcher = request.getRequestDispatcher("member/idcheck.jsp");
+		dispatcher.forward(request, response);
 	}
 
 }
