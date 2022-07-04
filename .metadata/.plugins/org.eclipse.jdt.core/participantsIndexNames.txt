@@ -25,6 +25,8 @@ D:\lkw_data\jsp_git_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3
 \chap01\src\main\java
 D:\lkw_data\jsp_git_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2321419722.index
 \chap02\src\main\java
+D:\lkw_data\jsp_git_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\749336267.index
+\chap11\src\main\java
 D:\lkw_data\jsp_git_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2972724204.index
 \chap10\src\main\java
 D:\lkw_data\jsp_git_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1070864848.index

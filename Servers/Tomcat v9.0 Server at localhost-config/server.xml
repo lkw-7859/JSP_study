@@ -36,16 +36,7 @@
     <!-- Editable user database that can also be used by
          UserDatabaseRealm to authenticate users
     -->
-    <Resource
-     name="jdbc/oracle"
-     auth = "Container"
-     type="javax.sql.DataSource"
-     driverClassName="oracle.jdbc.OracleDriver"
-     url="jdbc:oracle:thin:@localhost:1521:XE"
-     username="bg"
-     password="bg"
-     maxActive="50"
-     maxWait="-1" />
+    <Resource auth="Container" driverClassName="oracle.jdbc.OracleDriver" maxActive="50" maxWait="-1" name="jdbc/oracle" password="bg" type="javax.sql.DataSource" url="jdbc:oracle:thin:@localhost:1521:XE" username="bg"/>
     <Resource auth="Container" description="User database that can be updated and saved" factory="org.apache.catalina.users.MemoryUserDatabaseFactory" name="UserDatabase" pathname="conf/tomcat-users.xml" type="org.apache.catalina.UserDatabase"/>
   </GlobalNamingResources>
 
@@ -162,7 +153,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="chap10" path="/chap10" reloadable="true" source="org.eclipse.jst.jee.server:chap10"/></Host>
+      <Context docBase="chap11" path="/chap11" reloadable="true" source="org.eclipse.jst.jee.server:chap11"/></Host>
     </Engine>
   </Service>
 </Server>
