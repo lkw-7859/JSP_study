@@ -52,6 +52,7 @@ public class ActionFactory {
 		else if(command.equals("board_delete")) {
 			action = new BoardDeleteAction();
 		}
+		
 		return action;
 	}
 }
