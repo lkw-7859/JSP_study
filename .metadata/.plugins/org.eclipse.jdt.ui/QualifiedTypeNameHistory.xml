@@ -24,7 +24,6 @@
     <fullyQualifiedTypeName name="javax.sql.rowset.serial.SerialException"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="com.saeyan.controller.ActionFactory"/>
-    <fullyQualifiedTypeName name="javax.servlet.ServletException"/>
     <fullyQualifiedTypeName name="com.saeyan.controller.action.BoardWriteFormAction"/>
     <fullyQualifiedTypeName name="com.saeyan.controller.action.BoardWriteAction"/>
     <fullyQualifiedTypeName name="com.saeyan.controller.action.BoardViewAction"/>
@@ -40,18 +39,22 @@
     <fullyQualifiedTypeName name="com.saeyan.dao.BoardDAO"/>
     <fullyQualifiedTypeName name="com.saeyan.controller.action.BoardListAction"/>
     <fullyQualifiedTypeName name="com.saeyan.controller.action.BoardDeleteAction"/>
+    <fullyQualifiedTypeName name="sec02.ex01.MemberDAO"/>
+    <fullyQualifiedTypeName name="sec02.ex01.MemberVO"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+    <fullyQualifiedTypeName name="sec01.ex01.MemberDAO"/>
+    <fullyQualifiedTypeName name="sec01.ex01.MemberVO"/>
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
-    <fullyQualifiedTypeName name="sec01.ex01.MemberDAO"/>
     <fullyQualifiedTypeName name="javax.naming.InitialContext"/>
     <fullyQualifiedTypeName name="javax.naming.Context"/>
     <fullyQualifiedTypeName name="javax.sql.DataSource"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="sec01.ex01.MemberVO"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
-    <fullyQualifiedTypeName name="sec02.ex01.MemberDAO"/>
     <fullyQualifiedTypeName name="java.sql.ResultSet"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
-    <fullyQualifiedTypeName name="sec02.ex01.MemberVO"/>
+    <fullyQualifiedTypeName name="sec03.brd01.BoardDAO"/>
+    <fullyQualifiedTypeName name="sec03.brd01.BoardService"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="sec03.brd01.ArticleVO"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
 </qualifiedTypeNameHistroy>
