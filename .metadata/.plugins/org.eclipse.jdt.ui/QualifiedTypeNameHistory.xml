@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.saeyan.javabeans.MemberBean"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="com.saeyan.dao.MemberDAO"/>
-    <fullyQualifiedTypeName name="com.saeyan.dto.MemberVO"/>
-    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
-    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
-    <fullyQualifiedTypeName name="java.util.Enumeration"/>
-    <fullyQualifiedTypeName name="java.lang.ProcessHandle"/>
-    <fullyQualifiedTypeName name="com.saeyan.dto.ProductoVO"/>
-    <fullyQualifiedTypeName name="javax.security.auth.message.callback.PrivateKeyCallback.Request"/>
-    <fullyQualifiedTypeName name="com.oreilly.servlet.MultipartRequest"/>
-    <fullyQualifiedTypeName name="com.oreilly.servlet.multipart.DefaultFileRenamePolicy"/>
-    <fullyQualifiedTypeName name="javax.servlet.ServletContext"/>
-    <fullyQualifiedTypeName name="com.saeyan.dao.ProductDAO"/>
     <fullyQualifiedTypeName name="com.saeyan.dto.ProductVO"/>
     <fullyQualifiedTypeName name="java.sql.Timestamp"/>
     <fullyQualifiedTypeName name="java.sql.Statement"/>
@@ -32,7 +18,6 @@
     <fullyQualifiedTypeName name="com.saeyan.controller.action.BoardUpdateFormAction"/>
     <fullyQualifiedTypeName name="com.sun.tools.jdeprscan.CSVParseException"/>
     <fullyQualifiedTypeName name="com.saeyan.dto.BoardVO"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="com.saeyan.controller.action.BoardUpdateAction"/>
     <fullyQualifiedTypeName name="javax.accessibility.AccessibleIcon"/>
     <fullyQualifiedTypeName name="com.saeyan.controller.action.Action"/>
@@ -49,12 +34,30 @@
     <fullyQualifiedTypeName name="javax.naming.InitialContext"/>
     <fullyQualifiedTypeName name="javax.naming.Context"/>
     <fullyQualifiedTypeName name="javax.sql.DataSource"/>
-    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="oracle.jdbc.aq.AQEnqueueOptions"/>
+    <fullyQualifiedTypeName name="org.apache.tomcat.util.http.fileupload.disk.DiskFileItemFactory"/>
+    <fullyQualifiedTypeName name="org.apache.tomcat.util.http.fileupload.servlet.ServletFileUpload"/>
+    <fullyQualifiedTypeName name="org.apache.tomcat.util.http.fileupload.RequestContext"/>
+    <fullyQualifiedTypeName name="org.apache.tomcat.util.http.fileupload.FileItem"/>
+    <fullyQualifiedTypeName name="org.apache.tomcat.util.http.fileupload.FileUtils"/>
+    <fullyQualifiedTypeName name="org.apache.tomcat.PeriodicEventListener"/>
+    <fullyQualifiedTypeName name="java.io.OutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
-    <fullyQualifiedTypeName name="sec03.brd01.BoardDAO"/>
+    <fullyQualifiedTypeName name="oracle.net.aso.q"/>
     <fullyQualifiedTypeName name="sec03.brd01.BoardService"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="sec03.brd01.BoardDAO"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="sec03.brd01.ArticleVO"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
 </qualifiedTypeNameHistroy>
