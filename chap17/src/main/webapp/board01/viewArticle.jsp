@@ -10,7 +10,7 @@
 <head>
    <meta charset="UTF-8">
    <title>글보기</title>
-   <script type="text/javascript">
+   <script type="text/javascript">  	  
       function backToList(obj){
 	    obj.action="${contextPath}/board/listArticles.do";
 	    obj.submit();
@@ -115,14 +115,14 @@
 	    <input type=text value="<fmt:formatDate value="${article.writeDate}" />" disabled />
 	   </td>   
   </tr>
-  <tr id="tr_btn_modify"  >
+  <tr id="tr_btn_modify" style="display: none;">
 	   <td colspan="2"   align="center" >
 	       <input type=button value="수정 반영하기"   onClick="fn_modify_article(frmArticle)"  >
            <input type=button value="취소"  onClick="backToList(frmArticle)">
 	   </td>   
   </tr>
     
-  <tr id="tr_btn"    >
+  <tr id="tr_btn">
    <td colspan=2 align="center">
 	  <input type=button value="수정하기" onClick="fn_enable(this.form)">
 	  <input type=button value="삭제하기" onClick="fn_remove_article('${contextPath}/board/removeArticle.do', ${article.articleNO})">
